@@ -1,2 +1,2 @@
 # ritual-demo
-creating a new repository
+creating a new repository.
